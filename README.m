@@ -6,5 +6,6 @@
 
 <!---
 Dmoneee/Dmoneee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+sudo / apt-get install python-pip python-setuptools python-dev cmake
 --->
